@@ -55,7 +55,7 @@ this makes Mama very <u><?php echo $seven?></u>, which isn't always a
 good thing.</p><p><u><?php echo $two ?></u> and <u><?php echo $four?></u> are good students, but they are bad <u><?php echo $eight?></u>.
 As <u><?php echo $eight?></u> they are very <u><?php echo $nine?></u>. But since Mama
 <u><?php echo $ten?></u> <u><?php echo $two?></u> and <u><?php echo $four ?></u>, maybe it's OK.</p>
-<button class="restart-button waves-effect waves-light btn green" onclick="window.location.href='index.html';>Try another?</button>
+<button class="restart-button waves-effect waves-light btn green" onclick="window.location.href='index.php';">Try another?</button>
 </div>
 
 

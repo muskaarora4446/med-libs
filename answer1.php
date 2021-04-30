@@ -3,12 +3,12 @@
   <title>Mad Libs!</title>
   <meta charset="utf-8">
   
-  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <!-- Compiled and minified CSS -->
-  <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css"> -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/css/materialize.min.css">
 
   <!-- Compiled and minified JavaScript -->
-  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script> -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
 
   <?php 
 
@@ -57,7 +57,7 @@ Grant Grierson formerly of <u><?php echo $name4 ?></u>, explains:
 "The <u><?php echo $name1 ?></u> approach to <u><?php echo $verb1?></u> is unlike anything I've ever seen. It
 will change the world. It's <u><?php echo $adjective3?></u>!"
 </p>
-<button class="restart-button waves-effect waves-light btn green" onclick="window.location.href='index.html';">Try another?</button>
+<button class="restart-button waves-effect waves-light btn green" onclick="window.location.href='index.php';">Try another?</button>
 </div>
 
 </body></html>

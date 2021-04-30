@@ -112,13 +112,11 @@ if(isset($_POST['adjective3'])){
   </div>
   <div>Adjective: <input type="text" id="20" placeholder="hype" name = "adjective3">
   </div>
-
- 
+  <button type = "submit" class="restart-button waves-effect waves-light btn green"> Submit</button>
   </form>
 </div>
 </div>
-<canvas width="0" height="150" style="
-    margin-left: 600px;
-"><script src="scripts/index.js"></script></canvas>
+
+ 
 </body>
 </html>

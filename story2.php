@@ -138,15 +138,11 @@ if(isset($_POST['sixteen'])){
   </div>
   <div>Adjective: <input type="text" id="24" placeholder="reaction visible on the face" name = "fifteen">
   </div>
-
+  <button type = "submit" class="restart-button waves-effect waves-light btn green"> Submit</button>
 
 
   <!-- <a class="waves-effect waves-light btn green" id="submit">Submit</a> -->
   </form>
 </div>
 </div>
-
-<canvas width="0" height="150" style="
-    margin-left: 600px;
-"><script src="scripts/index.js"></script></canvas>
 </body></html>

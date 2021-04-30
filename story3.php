@@ -92,13 +92,10 @@ if(isset($_POST['ten'])){
     </div>
     <div>Verb: <input type="text" id="12" placeholder="third person present transitive"  name= "ten">
     </div>
-    <!-- <a class="waves-effect waves-light btn green" id="submit">Submit</a> -->
+    <button type = "submit" class="restart-button waves-effect waves-light btn green"> Submit</button>
     
     </form>
   </div>
 </div>
-<canvas width="0" height="150" style="
-    margin-left: 600px;
-"><script src="scripts/index.js"></script></canvas>
 
 </body></html>
